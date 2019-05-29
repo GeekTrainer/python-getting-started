@@ -6,7 +6,7 @@
 - [x] Error messages and error handling (C)
 - [] Boolean logic (if statements) (S)
 - [x] Lists and arrays (C)
-- [] Loops (C)
+- [x] Loops (C)
 - [] Functions, including parameters and return values (S)
 - [] Package management (C)
 - [] Virtual environments (C)
