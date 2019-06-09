@@ -2,6 +2,7 @@
 
 - [x] Installing Visual Studio Code and Python (C)
 - [x] Hello, World (and print) (S)
+- [x] Comments
 - [x] Variables, types & casting, string & math basics (S)
 - [x] Dates???
 - [x] Error messages and error handling (C)
