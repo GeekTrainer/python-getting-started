@@ -20,7 +20,7 @@ parameters  = {'visualFeatures':'Description,Color',
                'language':'en'}
 
 # We need the key to access our Computer Vision Service
-subscription_key = "cf229a23c3054905b5a8ad512edfa9dd"
+subscription_key = "xxxxxxxxxxxxxxxxxxxx"
 
 # Open the image file to get a file object containing the image to analyze
 image_path = "./TestImages/PolarBear.jpg"
