@@ -1,7 +1,6 @@
 # I check to see if the requirements for honour roll are met
-# and set a Boolean variable to True or False to remember
-gpa = .95
-lowest_grade = .81
+gpa = float(input('What was your Grade Point Average? '))
+lowest_grade = float(input('What was your lowest grade? '))
 
 if gpa >= .85 and lowest_grade >= .70:
 	honour_roll = True
@@ -12,4 +11,4 @@ else:
 # on honour roll, all I need to do is check the boolean variable
 # I set earlier in my code
 if honour_roll:
-	print('Well done')
+	print('You made honour roll')

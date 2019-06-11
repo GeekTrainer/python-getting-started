@@ -1,4 +1,4 @@
-#Ask for someones name and return the initials
+# Ask for someones name and return the initials
 first_name = input('Enter your first name: ')
 first_name_initial = first_name[0:1]
 
