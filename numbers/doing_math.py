@@ -1,5 +1,9 @@
+# Because the variables are assigned numeric values when created
+# Python knows they are numeric variables
 first_num = 6
 second_num = 2
+
+# You can peform a variety of math operations on numeric values
 print('addition')
 print(first_num + second_num)
 print('subtraction')
