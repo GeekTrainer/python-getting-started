@@ -8,12 +8,16 @@ import requests
 # We will need the json library to read the data passed back 
 # by the web service
 import json
-# We need the key to access our Computer Vision Service
+
+# You need to update the SUBSCRIPTION_KEY to 
+# they key for your Computer Vision Service
 SUBSCRIPTION_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-# We need the address of our Computer vision service
+# You need to update the vision_service_address to the address of
+# your Computer Vision Service
 vision_service_address = "https://canadacentral.api.cognitive.microsoft.com/vision/v2.0/"
-# Add the name of the function we want to call to the address
+
+# Add the name of the function you want to call to the address
 address = vision_service_address + "analyze"
 
 # According to the documentation for the analyze image function 
