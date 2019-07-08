@@ -25,4 +25,4 @@ else:
 - \>= greater than or equal to
 - <= less than or equal to
 - != not equal to
-- **x *in** [a,b,c]* Does x match the value of a, b, or c
+- **x *in* [a,b,c]** Does x match the value of a, b, or c
