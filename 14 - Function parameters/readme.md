@@ -1,10 +1,6 @@
 # Function parameters
 
-Functions allow you to take code that is repeated and move it to a module that can be called when needed.
-
-Functions are defined with the *def* keyword and must be declared before the function is called in your code.
-
-Functions can accept one or more parameters and return values.
+Functions allow you to take code that is repeated and move it to a module that can be called when needed. Functions are defined with the `def` keyword and must be declared before the function is called in your code. Functions can accept one or more parameters and return values.
 
 - [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 
@@ -14,7 +10,7 @@ def function_name(parameter):
     return value
 ```
 
-Parameters can be assigned a [default value](https://docs.python.org/3/tutorial/controlflow.html#default-argument-values) making them optional when the function is called. 
+Parameters can be assigned a [default value](https://docs.python.org/3/tutorial/controlflow.html#default-argument-values) making them optional when the function is called.
 
 ```python
 def function_name(parameter=default):
