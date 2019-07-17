@@ -29,4 +29,6 @@ As the goal of this course is to help get you up to speed on Python so you can w
 - [Quickstart: Detect faces in an image using the Face REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/face/QuickStarts/Python?WT.mc_id=python-c9-niner)
 - [Quickstart: Analyze a local image using the Computer Vision REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/python-disk?WT.mc_id=python-c9-niner)
 - [Quickstart: Using the Python REST API to call the Text Analytics Cognitive Service](https://docs.microsoft.com/en-us/azure/cognitive-services/Text-Analytics/quickstarts/python?WT.mc_id=python-c9-niner)
-- 
+- [Tutorial: Build a Flask app with Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/tutorial-build-flask-app-translation-synthesis)
+- [Flask tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask?WT.mc_id=python-c9-niner)
+- [Django tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-django?WT.mc_id=python-c9-niner)
